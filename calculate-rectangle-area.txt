@@ -1,0 +1,7 @@
+START 
+INPUT Length
+INPUT Width
+SET Area TO Length * Width 
+PRINT "The area for rectangke is ${Area}"
+END
+
